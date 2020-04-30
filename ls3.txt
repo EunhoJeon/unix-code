@@ -1,0 +1,23 @@
+합계 168
+drwxr-xr-x 2 horang horang  4096 10월 29 01:50 1
+drwxr-xr-x 2 horang horang  4096 11월 20 23:12 2
+-rwxrwxr-x 1 horang horang 13280 11월 13 23:24 ac
+-rw-rw-r-- 1 horang horang  1737 11월 19 22:29 acc.c
+-rwxrwxr-x 1 horang horang 13800 11월 21 00:08 again
+-rw-rw-r-- 1 horang horang  3960 11월 20 23:33 again.c
+-rwxr-xr-x 1 horang horang 13800 11월 20 23:14 chanjun
+-rw-rw-r-- 1 horang horang  3899 11월 20 23:14 chanjun.c
+-rw-r--r-- 1 horang horang     7 11월 20 23:34 hmm.txt
+-rw-r--r-- 1 horang horang  1174 11월 21 00:18 ls.txt
+-rw-r--r-- 1 horang horang  1174 11월 21 00:25 ls2.txt
+-rw-r--r-- 1 horang horang     0 11월 21 00:26 ls3.txt
+-rwxr-xr-x 1 horang horang 13832 11월 21 00:24 myshell
+-rw-rw-r-- 1 horang horang  4426 11월 21 00:20 myshell.c
+-rwxrwxr-x 1 horang horang 13880 11월 20 22:23 save
+-rw-rw-r-- 1 horang horang  5416 11월 20 22:23 save.c
+-rwxrwxr-x 1 horang horang  8680 11월 13 20:25 sigchild
+-rw-rw-r-- 1 horang horang   692 11월 13 20:25 sigchild.c
+-rwxrwxr-x 1 horang horang  8432 11월 13 19:48 signalh
+-rw-rw-r-- 1 horang horang   374 11월 13 19:48 signalh.c
+-rw-r--r-- 1 horang horang    11 11월 21 00:24 test.txt
+-rw-r--r-- 1 horang horang    11 11월 21 00:17 test1.txt
